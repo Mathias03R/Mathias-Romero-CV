@@ -36,6 +36,11 @@ body{
     margin: 10px;
 }
 
+#logoContainer a{
+    width: fit-content;
+    cursor: pointer;
+}
+
 #logoContainer img{
     width: 70px;
 }
