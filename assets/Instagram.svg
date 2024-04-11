@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 59" width="60" height="59">
+	<title>Instagram-8</title>
+	<defs>
+		<image  width="60" height="59" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA7AQMAAAAdN3uJAAAAAXNSR0IB2cksfwAAAAZQTFRFTGlxByYmjsCxQQAAAAJ0Uk5TAP9bkSK1AAABO0lEQVR4nF3RsUrDUBQG4PMngRQcEugDpODgKD7Bbeni6OogIji4Ci4u3lwdHPsIkkfo6GYeIWOGQjs6XKyDGCFNPPcktkUy5INzc3POf0BhRdR6BFJvRJSPQS2/6TMGGoefAfzaYRMgrFZH5Yv2EH14RH4NJOWAS61Bko8YGlBmzEgyqElKFMUZNBjq7ATacEWdnu/w8OjO3gj07fH1BRoPzWZ45xBWrecvGNGazNMCdZAse6jXMJ8KzGV+6KAxKzqY8H3o0Hi+7YHvA3dPHezDCqj6j21JUAdb8IVfAvmFAM8dpA3BfHYl4Fbzqf1r3so4BN/ypGh4Lisj3w94QEY0H4dllwYxJJ8doqILk4/txZu5wNUESRF3yUc2IELDWJuUkiXgduu2u9vgdrmk037d3Cl/5h7e92pEv/ZHqIzgn/67AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Mi nombre es Mathias Andre Romero Maynetto y esta es la página de mi cv. Espero encuentren mas de lo que buscan.">
+    <meta name="keywords" content="html , web , cv, Mathias Romero, Mathias Andre Romero Maynetto">
+    <meta name="author" content="Mathias Romero">
+    <link rel="stylesheet" href="styles.css">
+    <title>Mathias Romero CV</title>
+    <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <nav id="navInferior">
+            <a onclick="scrollToSection('Inicio')"><img class="logo" src="assets/inicio.svg" alt="Inicio"></a>
+            <a onclick="scrollToSection('QuienSoy')"><img class="logo" src="assets/quienSoy.svg" alt="Quien soy"></a>
+            <a onclick="scrollToSection('Educacion')"><img class="logo" src="assets/educacion.svg" alt="Educacion"></a>
+            <a onclick="scrollToSection('ExperienciaLaboral')"><img class="logo" src="assets/experienciaLaboral.svg" alt="Experiencia Laboral"></a>
+            <a onclick="scrollToSection('Contacto')"><img class="logo" src="assets/contacto.svg" alt="Contacto"></a>
+        </nav> 
+        <div id="headerWrapper">
+            <div id="logoContainer">
+                <a onclick="scrollToSection('Inicio')">
+                    <img src="assets/logo1.svg" alt="logo de Mathias Romero">
+                </a>
+            </div>
+            <nav>
+                <ul>
+                    <li>
+                        <a onclick="scrollToSection('Inicio')">INICIO</a>
+                    </li>
+                    <li>
+                        <a onclick="scrollToSection('QuienSoy')">QUIEN SOY</a>
+                    </li>
+                    <li>
+                        <a onclick="scrollToSection('Educacion')">EDUCACIÓN</a>
+                    </li>
+                    <li>
+                        <a onclick="scrollToSection('ExperienciaLaboral')">EXPERIENCIA LABORAL</a>
+                    </li>
+                    <li>
+                        <a onclick="scrollToSection('Contacto')">CONTACTO</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <section id="Inicio">
+        <div id="inicioWrapper">
+            <div id="inicioText">
+                <h2 id="saludo">Hola, soy</h2>
+                <h1 id="nombre">Mathias Romero</h1>
+                <h3 id="softwareEngineer"><span id="lineaEscribir">|</span></h3>
+            </div>
+            <img id="logoInicio" src="assets/logo.svg" alt="logo Mathias romero">
+        </div>
+    </section>
+    <section id="QuienSoy">
+        <div class="sectionTitle">
+            <h1>Quien soy</h1>
+        </div>
+        <div id="QSWrapper">
+            
+                <div class="main">
+                    <div id="wrapperLogoContainer">
+                        <img src="assets/logo1.svg" alt="logo Mathias Romero">
+                    </div>
+                    <p>
+                        Me llamo Mathias Romero y soy <b>Ingeniero de Software</b>. Me gusta mucho investigar y aprender de manera autónoma sobre temas que pueden despertar mi curiosidad.
+                    </p>
+                    <img src="assets/programacion.svg" alt="logo programacion">
+                </div>
+                <div class="sub sub1">
+                    <p class="wrapperText">Además de lo relacionado con mi educación, algunos de mis hobbies son:</p>
+                </div>
+                <div class="sub sub2">
+                    <p class="wrapperText">Jugar Fútbol</p>
+                    <img src="assets/futbol.svg" alt="futbol">
+                </div>
+                <div class="sub sub3">
+                    <p class="wrapperText">Jugar Videojuegos</p>
+                    <img src="assets/videojuegos.svg" alt="videojuegos">
+                </div>
+                <div class="sub sub4">
+                    <p class="wrapperText">Practicar Muay Thai y hacer ejercicio.</p>
+                    <img src="assets/deportes.svg" alt="deporte">
+                </div>
+
+        </div>
+    </section>
+    <section id="Educacion">
+        <div class="sectionTitle">
+            <h1>Educación</h1>
+        </div>
+        <div id="educacionWrapper">
+            <div class="educacionSubWrappers" id="leftWrapper">
+                <h1>Aprendizaje Formal</h1>
+                <ul>
+                    <li>
+                        <h2>Idiomas Católica: (2014-2015)</h2>
+                        <p>Inglés desde Básico hasta Intermedio.</p>
+                    </li>
+                    <li>
+                        <h2>Idiomas Católica: (2014-2015)</h2>
+                        <p>Curso Gráfica Digital (Illustrator, Photoshop e InDesign).</p>
+                    </li>
+                    <li>
+                        <h2>Domestika: (2016-2017)</h2>
+                        <p>Curso de Wordpress</p>
+                        <p>Curso de HTML y CSS</p>
+                        <p>Curso de Adobe After Effects</p>
+                    </li>
+                    <li>
+                        <h2>Universidad San Ignacio de Loyola: (2021 - Actualidad)</h2>
+                        <p>Carrera de Ingeniería de Software</p>
+                        <p>Programa Dual Degree con Bachiller en Bussiness</p>
+                    </li>
+                </ul>
+            </div>
+            <div class="educacionSubWrappers" id="rightWrapper">
+                <h1>Aprendizaje Autónomo</h1>
+                <ul>
+                    <li>
+                        <h2>Portugués brasileño:</h2>
+                        <p>Básico mediante Duolingo</p>
+                    </li>
+                    <li>
+                        <h2>Python:</h2>
+                        <p>Con algunas librerías (Tkinter, Discord, pygame, etc)</p>
+                    </li>
+                    <li>
+                        <h2>JavaScript:</h2>
+                        <p>Y algunas ibrerías y Frameworks (React, React Native, etc.)</p>
+                    </li>
+                    <li>
+                        <h2>Firebase:</h2>
+                        <p>Firestore, Authentication y Cloud Messaging.</p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <section id="ExperienciaLaboral">
+        <div class="sectionTitle">
+            <h1>Experiencia Laboral</h1>
+        </div>
+        <div id="expWrapper">
+            <div id="timeLine">
+                <img src="assets/linea.svg" alt="linea de tiempo">
+                <div id="fecha1">
+                    <span>2017 - Actualidad</span>
+                </div>
+                <div id="fecha2">
+                    <span>2021 - Julio</span>
+                </div>
+                <div id="fecha3">
+                    <span>2022 - Actualidad</span>
+                </div>
+            </div>
+            <div id="experiencia">
+                <div class="expDescripcion">
+                    <h1>Graphics <span class="fechaResponsive">(2017 - Actualidad)</span></h1>
+                    <p>Animación de ilustraciones con Illustrator y Adobe After Effects</p>
+                    <img src="assets/bordeExp.svg" alt="linea para el borde">
+                </div>
+                <div class="expDescripcion">
+                    <h1>Sagen <span class="fechaResponsive">(2021 - Julio)</span></h1>
+                    <p>Digitador en vacunatorio de San Borja</p>
+                    <img src="assets/bordeExp.svg" alt="linea para el borde">
+                </div>
+                <div class="expDescripcion">
+                    <h1>Emprendimiento propio <span class="fechaResponsive">(2022 - Actualidad)</span></h1>
+                    <p>Diseñador y programador de páginas web y apps móviles.</p>
+                    <img src="assets/bordeExp.svg" alt="linea para el borde">
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="Contacto">
+        <div class="sectionTitle">
+            <h1>Contacto</h1>
+        </div>
+        <div id="wrapperContacto">
+            <div id="wrapperIzq">
+                <form  action="hola" method="GET">
+                    <input type="text"  name="nombre" placeholder="Nombre" id="name" required>
+                    <input type="email"  name="correo" placeholder="Correo electrónico" id="correo" required>
+                    <input type="number"  name="numero" placeholder="Número" id="numero" required>
+                    <textarea name="mensaje" id="mensaje" placeholder="Mensaje" ></textarea>
+                    <button type="submit">ENVIAR</button>
+                </form>
+            </div>
+            <div id="wrapperDer">
+                <h1>Más información</h1>
+                <h2>Correo</h2>
+                <ul>
+                    <li>correo1@mail.com</li>
+                    <li>correo2@mail.com</li>
+                </ul>
+                <h2>Dirección</h2>
+                <ul>
+                    <li>Calle 1, Urb. 2</li>
+                </ul>
+                <h2>Teléfono</h2>
+                <ul>
+                    <li>+51 999 999 999</li>
+                </ul>
+                <h2>Redes</h2>
+                <a href="https://www.facebook.com/"><img src="assets/Facebook.svg" alt="imagen de Facebook"></a>
+                <a href="https://web.whatsapp.com/"><img src="assets/WhatsApp.svg" alt="imagen de WhatsApp"></a>
+                <a href="https://www.instagram.com/"><img src="assets/Instagram.svg" alt="imagen de Instagram"></a>
+            </div>
+        </div>
+    </section>
+    <script src="index.js"></script>
+</body>
+</html>

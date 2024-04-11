@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 58 59" width="58" height="59">
+	<title>Facebook-8</title>
+	<defs>
+		<image  width="58" height="59" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADoAAAA7AQMAAAAQKQvOAAAAAXNSR0IB2cksfwAAAAZQTFRFTGlxByYmjsCxQQAAAAJ0Uk5TAP9bkSK1AAAA70lEQVR4nH3RQW7CMBAF0D/BEtmFC1TkIlXY9UwskO2TNe5JiMQBwo5IpOZ/I4Rogd1TnLH/zBiwOB9XgAHrfa4KMpA2xOIM8MywPAFTTaz3PK2Irod+NfhAxGAqUpnZrzC0purojytj9ez8thamWmhG3ut3znjf0HpfCWkj8OL0dYIV+J7gC+k7ID6BghLpOWJ+Cfv8KWCb+QYf/n75B/YmHD4U9+HC66Nvoqodwh6gclPvRK7u4HyI2WlixFTfwakSnCqzEJwz0xEMxw4I7aLrCW2nGWPeubLB1JUNaj1Dqy0zWgxCM86u7B2ZveICIru5PIvGkZ8AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

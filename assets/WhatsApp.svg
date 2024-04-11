@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 58 58" width="58" height="58">
+	<title>WhatsApp-8</title>
+	<defs>
+		<image  width="58" height="58" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADoAAAA6AQMAAADbddhrAAAAAXNSR0IB2cksfwAAAAZQTFRFTGlxByYmjsCxQQAAAAJ0Uk5TAP9bkSK1AAABPElEQVR4nGXRwW3CMBQG4P8lqcKhUrJBsonJBL32hhihC8R26L0zMAIDVMUbtBuQW3sDqUggQtzfJlJVVQLrO8TP7/1PANx/8xAgP51nEWobTv484OZEOgCHkij2AD8SVDunfEKo16zYC6GfynSwRuB5hX+RMZRa15JeEqD6KCU/ZkDxNZP8wId4SNGXQHrOpHI1X7wQ68dPYEykWg7PQNuJalre11aU86GiE93F0o20qz+olr8Y7iLWxJXXi40M2fgPbTdB2wmqMRPs/IbQWkTRPzQvG2m7/LhqFnyrYy69CpAxglU8+kXDVqFNv3Bs3jCqNxuQn6y3nMswmTigwTSpmWYPiGkEhHwiGFK4fsuQlRnGshb1vrnlrM15FpPXxifVjrvg2oBrNiHsK6KvJ1hDOL3lAsFO0oG7xQ+Njpi7bri6TAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>
